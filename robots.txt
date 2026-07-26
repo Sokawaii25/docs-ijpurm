@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-8033qw.joychicbar.co.nz/sitemap.xml
